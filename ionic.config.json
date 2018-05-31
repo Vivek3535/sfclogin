@@ -1,6 +1,6 @@
 {
   "name": "sfctest",
-  "app_id": "",
+  "app_id": "ca7f62ea",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
