@@ -1,6 +1,6 @@
 {
-  "name": "sfctest",
-  "app_id": "ca7f62ea",
+  "name": "simplelogin",
+  "app_id": "7b9fbd9c",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
